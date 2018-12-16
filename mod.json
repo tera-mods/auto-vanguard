@@ -1,0 +1,7 @@
+{
+	"name": "auto-vanguard",
+	"update": "github:tera-mods/auto-vanguard",
+	"title": "Auto-Vanguard",
+	"author": "Pinkie Pie",
+	"description": "Automatically turns in Vanguard quests upon completion."
+}
