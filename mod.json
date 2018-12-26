@@ -1,7 +1,8 @@
 {
 	"name": "auto-vanguard",
 	"update": "github:tera-mods/auto-vanguard",
+	"conflicts": ["autovanguard", "vanguardian"],
 	"title": "Auto-Vanguard",
-	"author": "Pinkie Pie",
+	"authors": ["Pinkie Pie", "Meishu"],
 	"description": "Automatically turns in Vanguard quests upon completion."
 }
